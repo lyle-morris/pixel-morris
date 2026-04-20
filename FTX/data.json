@@ -1,0 +1,23 @@
+{
+  "records": [
+    {
+      "name": "John Carter",
+      "initials": "JC",
+      "phone": "404-555-1234",
+      "company": "Bridge Access Solutions",
+      "companyDomain": "bridgeaccess.com",
+      "streetAddress": "123 Main St",
+      "city": "Atlanta",
+      "state": "GA",
+      "zipCode": "30301",
+      "billingType": "Direct billable",
+      "billingRate": "$145/hr",
+      "laborCraftCode": "CR017 - Scaffold Lead Technician",
+      "workOrder": "WO-10293",
+      "purchaseOrder": "PO-77422",
+      "serviceOffering": "Bridge Access",
+      "taskTitle": "Inspect suspended access system",
+      "taskDescription": "Perform daily safety inspection and access verification"
+    }
+  ]
+}
