@@ -1,0 +1,32 @@
+
+{
+  "version": "1.0",
+  "records": [
+    {
+      "id": "USR-001",
+      "name": "John Carter",
+      "email": "john.carter@brandsafway.com",
+      "streetAddress": "123 Peachtree St",
+      "city": "Atlanta",
+      "state": "GA",
+      "zipCode": "30303",
+      "phone": "404-555-0182",
+      "craftCode": "ELC",
+      "workOrder": "WO-458920",
+      "purchaseOrder": "PO-993211"
+    },
+    {
+      "id": "USR-002",
+      "name": "Alicia Brown",
+      "email": "alicia.brown@brandsafway.com",
+      "streetAddress": "875 Market Rd",
+      "city": "Savannah",
+      "state": "GA",
+      "zipCode": "31401",
+      "phone": "912-555-7741",
+      "craftCode": "CAR",
+      "workOrder": "WO-774201",
+      "purchaseOrder": "PO-228774"
+    }
+  ]
+}
